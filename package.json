@@ -1,0 +1,8 @@
+{
+  "name": "davema-backend-vercel",
+  "version": "1.0.0",
+  "description": "Davema contact form backend, deployed as Vercel serverless functions",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
